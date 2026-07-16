@@ -6,7 +6,7 @@ Checks who unfollows you on Instagram using BeautifulSoup
 3. Go to your profile
 4. Go inspect element. After click your followings, scroll all the way to the bottom of your followings list. Then copy the HTML:
    ex) the top line should look like:
-   <html class="_9dls _ar44 js-focus-visible _aa4d __fb-dark-mode" lang="en"....
+   "<html class="_9dls _ar44 js-focus-visible _aa4d __fb-dark-mode" lang="en"...."
 Then paste the copied HTML into following.txt
 
 5. Do the same for followers list.

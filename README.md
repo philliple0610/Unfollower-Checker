@@ -8,5 +8,6 @@ Checks who unfollows you on Instagram using BeautifulSoup
    ex) the top line should look like:
    <html class="_9dls _ar44 js-focus-visible _aa4d __fb-dark-mode" lang="en"....
 Then paste the copied HTML into following.txt
+
 5. Do the same for followers list.
 6. Run the program
